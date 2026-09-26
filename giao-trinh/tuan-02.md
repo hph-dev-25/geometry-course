@@ -6,6 +6,14 @@ Thời lượng: 5 buổi × 90 phút.
 
 Nguyên liệu: [exercises/tuan-02/boxes.json](../exercises/tuan-02/boxes.json). Quy ước giao nhau nằm ở [cách học](00-cach-hoc.md).
 
+## Tài liệu đọc
+
+Mở lúc viết `Intersects` và `BoxFile.Load`.
+
+- [Cheat-sheet AABB](tai-lieu/aabb-cheat-sheet.md) — công thức `<=`, file JSON của repo, cặp giao và không giao.
+- [PDF cheat-sheet](tai-lieu/02-aabb-cheat-sheet.pdf) — bản in. PDF ghi góc thành `min.x`. File mẫu trong repo ghi `min` là mảng `[x, y, z]`.
+- [System.Text.Json](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/overview) khi viết loader (buổi 2).
+
 ## Giáo án
 
 ### Buổi 1 — `Intersects`

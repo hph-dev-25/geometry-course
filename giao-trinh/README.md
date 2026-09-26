@@ -15,6 +15,7 @@
 | 8 | [Tuần 7 — Đọc spec và tách việc](tuan-07.md) |
 | 9 | [Tuần 8 — Chốt bài và trình bày](tuan-08.md) |
 | | [Phụ lục thuật ngữ Nhật](phu-luc-thuat-ngu.md) |
+| | [Tài liệu đọc kèm](tai-lieu/README.md) |
 | | [Đáp án](dap-an/README.md) |
 
 ## Việc lặp lại mỗi tuần

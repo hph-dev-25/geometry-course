@@ -81,3 +81,14 @@ Mỗi tuần học năm từ. Viết nghĩa tiếng Việt. Hôm sau che nghĩa,
 | 未決 | miketsu | chưa chốt |
 | 確認事項 | kakunin jikō | việc cần hỏi lại |
 | 引き渡し | hikiwatashi | bàn giao |
+
+## Phụ lục — từ BIM trong tài liệu đọc
+
+Bốn từ này đứng sau bảng từng tuần, để tra khi đọc PDF và khi nói về model BIM. アドイン, 図面, 干渉, 詳細設計 đã có trong bảng tuần 2, 4 và 7.
+
+| Tiếng Nhật | Cách đọc | Nghĩa trong việc này |
+|---|---|---|
+| 配筋 | haikin | cốt thép, reinforcement |
+| ファミリ | famirī | family — định nghĩa loại đối tượng trong BIM |
+| 配管 | haikan | đường ống, piping |
+| スナップショット | sunappushotto | snapshot — bản chụp trạng thái model hoặc dữ liệu |
