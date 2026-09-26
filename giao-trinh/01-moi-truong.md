@@ -6,7 +6,7 @@
 |---|---|
 | SDK | .NET 10.0.401, cài bằng mise. `dotnet --version` in `10.0.401` |
 | IDE | Rider 2026.2.2. Lệnh `rider`, hoặc mục Rider trong launcher |
-| Solution | `~/learn/geometry-course/Geometry.slnx` |
+| Solution | `/mnt/storage/learn/geometry-course/Geometry.slnx` trên ổ Storage (`/mnt/storage`) |
 | Windows | Máy ảo Windows 11 của Omarchy, ổ ảo 64 GB |
 
 `/usr/bin/dotnet` chỉ là runtime của hệ thống, không có SDK. Terminal và lệnh `rider` đã trỏ vào SDK của mise. Terminal mở từ trước khi cài thì đóng và mở lại.
@@ -15,7 +15,7 @@
 
 ```bash
 dotnet --version
-dotnet test --project ~/learn/geometry-course
+dotnet test --project /mnt/storage/learn/geometry-course
 ```
 
 Kỳ vọng: version `10.0.401`, một test pass.

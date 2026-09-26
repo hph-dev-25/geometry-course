@@ -2,18 +2,18 @@
 
 Giáo trình 8 tuần. Mỗi tuần có giáo án theo buổi, bài học, bài tập và tiêu chí tự chấm.
 
-Code trên máy này nằm ở `~/learn/geometry-course`. Tuần 1 bắt đầu từ `Hello, World!` có sẵn. Chưa có lời giải trong `src/`. Lời giải tham khảo nằm ở [giao-trinh/dap-an](giao-trinh/dap-an/README.md). Làm bài trước, mở sau.
+Code nằm trên ổ Storage, tại `/mnt/storage/learn/geometry-course`. `~/learn/geometry-course` chỉ là đường tắt tới đó. Tuần 1 bắt đầu từ `Hello, World!` có sẵn. Chưa có lời giải trong `src/`. Lời giải tham khảo nằm ở [giao-trinh/dap-an](giao-trinh/dap-an/README.md). Làm bài trước, mở sau.
 
 ## Bắt đầu
 
 ```bash
-rider ~/learn/geometry-course/Geometry.slnx
+rider /mnt/storage/learn/geometry-course/Geometry.slnx
 ```
 
 Hoặc:
 
 ```bash
-cd ~/learn/geometry-course
+cd /mnt/storage/learn/geometry-course
 dotnet run --project src/Week01.App
 dotnet test
 ```
