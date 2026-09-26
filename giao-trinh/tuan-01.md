@@ -6,6 +6,16 @@ Thời lượng: 5 buổi × 90 phút.
 
 Nguyên liệu: [exercises/tuan-01/boxes.txt](../exercises/tuan-01/boxes.txt). Năm từ Nhật của tuần nằm trong [phụ lục](phu-luc-thuat-ngu.md).
 
+## Tài liệu đọc
+
+Đọc kèm năm buổi ở dưới.
+
+- [C# tuần 1](tai-lieu/csharp-tuan-01-doc.md) — kiểu, `record`, nullable, LINQ, Rider, đặt tên. Khớp `Box`, `Volume`, `Parse`, `LargerThan`.
+- [PDF gốc](tai-lieu/01-week1-reading-pack.pdf) — bản in của mentor. Chương AABB trong PDF để [tuần 2](tuan-02.md).
+- [Tour of C#](https://learn.microsoft.com/dotnet/csharp/tour-of-csharp/) — kiểu, method, biểu thức (buổi 2).
+- [Nullable reference types](https://learn.microsoft.com/dotnet/csharp/nullable-references) (buổi 3).
+- [LINQ](https://learn.microsoft.com/dotnet/csharp/linq/) — `Where`, `Select`, `ToList` (buổi 4).
+
 ## Giáo án
 
 ### Buổi 1 — Vòng sửa, chạy, test

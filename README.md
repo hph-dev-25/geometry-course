@@ -18,7 +18,7 @@ dotnet run --project src/Week01.App
 dotnet test
 ```
 
-Đọc theo thứ tự trong [mục lục giáo trình](giao-trinh/README.md). Buổi đầu tiên nằm ở [tuần 1](giao-trinh/tuan-01.md).
+Đọc theo thứ tự trong [mục lục giáo trình](giao-trinh/README.md). Buổi đầu tiên nằm ở [tuần 1](giao-trinh/tuan-01.md). Tài liệu đọc kèm: [mục lục](giao-trinh/tai-lieu/README.md) (C# tuần 1, cheat-sheet AABB tuần 2).
 
 ## Tám tuần
 
